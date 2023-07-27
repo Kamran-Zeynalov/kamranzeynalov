@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C#, html/css/scss/bootstrap, javascript/jquery, etc**
+- 💬 Ask me about **C#, Asp.Net core, MVC, Api, html/css/scss/bootstrap, javascript/jquery, etc**
 
 - 📫 How to reach me **kamraneze@code.edu.az**
 
